@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "frappe-wiki-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Team knowledge bases and internal documentation."
 readme = "README.md"
 requires-python = ">=3.10"
